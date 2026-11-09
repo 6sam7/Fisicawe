@@ -1,0 +1,21 @@
+SIMULADOR DE CAÍDA LIBRE — FÍSICALAB (VERSIÓN CORREGIDA)
+
+Archivos:
+- index.html: estructura de la página.
+- style.css: diseño y estilos.
+- script.js: cálculos, animación, tabla y gráfica (revisado).
+
+Cómo abrir en Acode:
+1. Extrae el ZIP en una carpeta.
+2. En Acode, abre esa carpeta como proyecto.
+3. Abre index.html y utiliza Vista previa.
+4. Mantén los tres archivos en la misma carpeta.
+
+Si la página aparece sin diseño, verifica que style.css esté en la misma
+carpeta que index.html y vuelve a cargar la vista previa.
+
+Modelo ideal de caída libre desde el reposo, sin resistencia del aire:
+v = √(2g(h0-h))
+Ep = mgh
+Ec = 1/2 mv²
+Em = Ep + Ec = mgh0
